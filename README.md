@@ -1,6 +1,6 @@
 <center>
 
-# COCO-TB Examples
+# CocoTB Examples
 
 </center>
 
